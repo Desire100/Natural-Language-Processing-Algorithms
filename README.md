@@ -1,7 +1,7 @@
 # Natural-Language-Processing-Algorithms
 NLP is applying machine learning models to text and language.  Teaching machines to understand what is said in spoken and written word is the focus of Natural Language Processing. whenever  you dictate something into your electronic device that is the converted to text, that's NLP algorithm in action.
 
-In this section you will understand and learn how to clean to prepare them for machine learning models, create bag of words model and apply machine learning models onto this bag words model.
+In this section you will understand and learn how to clean to prepare them for machine learning models, create bag of words model and apply machine learning models onto this bag words model. NLP is about analysing texts and these texts can be books reviews, some HTML web pages that you extract from web scrapping, all sorts of texts. therefore NLP is a branch of ML where we do some predictive analysis on text mostly. 
 
 Definition: NLP is the area of computer science and Artificial Intelligence concerned with interactions between computers and human or natural languages.
 
@@ -17,3 +17,4 @@ In general so that we have an idea of NLP let's takw a look at some uses we have
    3. for the purpose of the practical work in this project you will be workind with the bag of words model. it's a highly popular and 
       relevant NLP. in this part you will understand and learn how to clean text and prepare them for machine learning models, create a 
       bag of words models and applly ML models onto this bag of words.
+
