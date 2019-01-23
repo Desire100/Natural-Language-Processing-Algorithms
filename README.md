@@ -6,7 +6,7 @@ In this section you will understand and learn how to clean to prepare them for m
 Definition: NLP is the area of computer science and Artificial Intelligence concerned with interactions between computers and human or natural languages.
 
 In general so that we have an idea of NLP let's takw a look at some uses we have:  
-    1. Sentiment analysis or identify the mood or subjective opinions within large text. we are going to build a similar model in this            section with restaurant reviews being positive or negative but you can also use it to predict the genre of a book use it for              question and trade with chat bot. you could also use it to buuild a machine translator or a speech recognition system along with          document summarization.
+       1. Sentiment analysis or identify the mood or subjective opinions within large text. we are going to build a similar model in this            section with restaurant reviews being positive or negative but you can also use it to predict the genre of a book use it for              question and trade with chat bot. you could also use it to buuild a machine translator or a speech recognition system along      with          document summarization.
 
    2. Main NLP library examples:
        Natural Language Toolkit (NLTK)
